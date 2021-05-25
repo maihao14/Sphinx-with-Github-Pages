@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-.. figure:: ../Images/homepage.png
+.. image:: /Images/homepage.png
   :align: center
 
 Welcome to Sphinx with GitHub's documentation!
@@ -22,14 +22,14 @@ a GitHub Pages documentation.
    :maxdepth: 1
    :caption: Getting Started
 
-   obstools
+   install
 
 .. toctree::
    :maxdepth: 2
    :caption: Modules
 
-   atacr
-   comply
+   sphnix
+   github_page
 
 
 
