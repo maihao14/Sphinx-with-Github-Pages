@@ -3,12 +3,33 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SphinxGHP's documentation!
-=====================================
+.. figure:: ../Images/homepage.png
+  :align: center
+
+Welcome to Sphinx with GitHub's documentation!
+==============================================
+
+This is a quick tutorial to introduce how to use Sphinx to auto create
+a GitHub Pages documentation.
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Quick Links
+
+   links
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Getting Started
+
+   obstools
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Modules
+
+   atacr
+   comply
 
 
 
