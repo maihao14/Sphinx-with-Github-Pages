@@ -1,1 +1,0 @@
-# Sphinx-with-Github-Pages
